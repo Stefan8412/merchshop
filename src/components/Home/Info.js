@@ -21,7 +21,7 @@ export default function Info() {
               magna sit amet ante vulputate, vel lacinia lorem sodales.
               Vestibulum in molestie odio.
             </p>
-            <Link to="/about/">
+            <Link to="/About">
               <button className="btn text-uppercase btn-yellow">
                 About page
               </button>

@@ -1,6 +1,6 @@
 :root {
   --mainBrown: #2d1e1f;
-  --mainYellow: rgb(224, 191, 106);
+  --mainYellow: #f4c240;
   --mainGrey: #ece8dc;
   --mainWhite: #fff;
   --mainDark: #102e30;
@@ -55,4 +55,8 @@ h6 {
 }
 .footer {
   background: var(--mainDark);
+}
+.menu,
+.contact {
+  background: var(--mainGrey);
 }
